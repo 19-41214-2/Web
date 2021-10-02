@@ -2,7 +2,7 @@
 <html>
 	<head></head>
 	<body>
-<h1><b>Registration Form1</b></h1>
+<h1><b>Registration Form</b></h1>
 		<fieldset>
 		<legend><b>Basic Information</b></legend>
 
